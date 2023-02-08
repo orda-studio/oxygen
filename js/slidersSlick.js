@@ -1,0 +1,1 @@
+$(".slider__wrapper").length>0&&$(".slider__wrapper").slick({dots:!0,arrows:!0,accessibility:!1,slidesToShow:1,autoplaySpeed:3e3,adaptiveHeight:!0,responsive:[{breakpoint:768,settings:{}}]});

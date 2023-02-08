@@ -1,0 +1,1 @@
+var callbackForm=new SmartFormValidator(".contact__form");
